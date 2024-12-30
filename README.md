@@ -22,13 +22,12 @@ Here are some of my favorite projects:
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaaryo&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Contact Me
 - **Email**: ojiryo1998@gmail.com  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 
 ---
 
